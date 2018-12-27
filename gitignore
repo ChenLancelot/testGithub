@@ -1,0 +1,26 @@
+##ignore this file##
+**/target/
+**/logs/
+
+.classpath
+.project
+.settings
+.metadata
+.svn
+
+##filter databfile.sln file##
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+## compression file ##
+*.apk
+
+## IDEA ##
+*.iml
+.idea
+test-output
+target
